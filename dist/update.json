@@ -1,0 +1,4 @@
+{
+  "payload": "{\n  \"versionCode\": 124,\n  \"versionName\": \"1.3.2\",\n  \"apkUrl\": \"https://raw.githubusercontent.com/kimzhoua/nettopo-dist/main/dist/app-1.3.2.apk\",\n  \"rawApkUrl\": \"https://raw.githubusercontent.com/kimzhoua/nettopo-dist/main/dist/app-1.3.2.apk\",\n  \"manifestUrl\": \"https://raw.githubusercontent.com/kimzhoua/nettopo-dist/main/dist/update.json\",\n  \"sha256\": \"ce51963ec250c13735aaed6328cf8c0bfdea71c306e4dd9e7e87c607f804f955\",\n  \"notes\": \"1. OTA 更新源迁移到 nettopo-dist\\n2. 源码仓库转私有\"\n}",
+  "sig": "e69gIcSk8GNPwMt+WVfh4XJ07guHD363IwsLp2cTDVFmpBQDt4/DTTi9kVxQrhqjwOj15ntRyly8HSOtmFJk6kZGyGjxdz4c9qjA4C9BOKtsfbczE3T1Dg0Sdjnvqdj1vhP+ukuJUIa/TZ9FJzyUvJyZhHk3dsp27HAhFGMBU1poG6LP6hHld+mXYkQ6bUXOF3xRemzbvaod1iVZr8pA3wOP5CSoD/KorOQJgRCzWqhAg7qffjQqmLFD7fUg4LZ6ygsqQqHrLf3CMO0AhiV6VnwsPiPZoovgHCoBMLgQYYcV3BQX9A858wVpajJFoY3lL/v4g0KS6gQq+QD/1R6yqA=="
+}
